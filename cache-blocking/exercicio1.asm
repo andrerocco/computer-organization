@@ -12,7 +12,7 @@
 # }
 
 .data
-	.eqv SIZE 2 	# Define o tamanho de uma linha/coluna da matriz quadrada
+	.eqv SIZE 16 	# Define o tamanho de uma linha/coluna da matriz quadrada
 .text
 main:
 	# ARMAZENAMENTO DAS MATRIZES --------------
